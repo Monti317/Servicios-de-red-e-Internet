@@ -7,3 +7,4 @@ Ahora vamos a poneren marcha el servidor web de Python a través del terminal co
 ```
 python -m http.server 8000
 ```
+![Screenshot1](imagenes/Screenshot_1.png)
