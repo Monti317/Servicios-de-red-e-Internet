@@ -1,16 +1,8 @@
-# Servicios de red e Internet
-Este repositorio incluye actividades llevadas a cabo en el módulo Servicios de red e Internet
+# SRI - Servicios de Red e Internet
+## Recopilación de ejercicios de SRI
 
-## Tema 0 - Nombre tema 0
+### Tema 0 - Introducción
 
-| Ejercicio 1  | Breve descripción 0.1 |
-| ------------- | ------------- |
-| Ejercicio 2  | Breve descripcion 0.2  |
-| ...  | ...  |
-
-## Tema 1 - Nombre tema 1
-
-| Ejercicio 1  | Breve descripción 0.1 |
-| ------------- | ------------- |
-| Ejercicio 2  | Breve descripcion 0.2  |
-| ...  | ...  |
+Nombre | Descripción
+-------|---------
+[Ejercicio1](/tema0/ejercicio5-1.md) | Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
