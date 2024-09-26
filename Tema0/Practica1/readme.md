@@ -11,3 +11,4 @@ python -m http.server 8000
 
 Por ultimo vamos a abrir el index creado anteriormente poniendo en el navegador "localhost:8000"
 
+![Screenshot3](imagenes/Screenshot_3.png)
