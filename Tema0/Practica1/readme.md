@@ -16,3 +16,5 @@ Una vez el servidor abierto vamos a abrir el index creado anteriormente poniendo
 Ahora vamos a cambiar la imagen del servidor por una que nosotros queramos, para esto vamos a descargar una imagen cualquiera y le tendremos que cambiar el nombre a "favicon" y la extension deberá ser ".ico":
 
 ![Screenshot4](imagenes/Screenshot_4.png)
+
+Ya cambiado el nombre deberemos meter el archivo en la ruta en la que se inicia el servidor, ya metida en la ruta reiniciamos el servidor y nos deberá salir tal que así:
