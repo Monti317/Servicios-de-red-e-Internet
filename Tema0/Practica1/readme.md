@@ -13,4 +13,4 @@ Una vez el servidor abierto vamos a abrir el index creado anteriormente poniendo
 
 ![Screenshot3](imagenes/Screenshot_3.png)
 
-Ahora vamos a cambiar la imagen del servidor por una que nosotros queramos, para esto vamos a descargar una imagen cualquiera y le tendremos que cambiar el nombre y la extension deberá ser ".ico":
+Ahora vamos a cambiar la imagen del servidor por una que nosotros queramos, para esto vamos a descargar una imagen cualquiera y le tendremos que cambiar el nombre a "favicon" y la extension deberá ser ".ico":
