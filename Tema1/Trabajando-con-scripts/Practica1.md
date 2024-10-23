@@ -34,3 +34,5 @@
 Si el usuario elige no sobreescribir, la operación se cancela.
 <br>
 -Recopilación de datos: Solicita al usuario que ingrese el título de la página, la cabecera y el mensaje.
+
+![Texto alternativo](images/Captura3.png)
