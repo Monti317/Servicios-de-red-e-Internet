@@ -18,3 +18,4 @@
 <br>
 -Copia de seguridad y adición: Si no existen, realiza una copia de seguridad del archivo /etc/hosts y añade la nueva entrada (IP y dominio) al final del archivo, indicando que se ha añadido correctamente.
 <br>
+![Texto alternativo](images/Captura2.png)
