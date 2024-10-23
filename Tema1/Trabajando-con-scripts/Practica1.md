@@ -7,3 +7,5 @@
 -Copia de seguridad y adición del puerto<br>
 
 ![Texto alternativo](images/Screenshot_1.png)
+
+2. **Crea un script que añada un nombre de dominio y una ip al fichero hosts. Debemos comprobar que no existe dicho dominio en el fichero hosts**
