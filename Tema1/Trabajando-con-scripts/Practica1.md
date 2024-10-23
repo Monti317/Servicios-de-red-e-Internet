@@ -4,3 +4,4 @@
 -Verificación del puerto
 -Copia de seguridad y adición del puerto
 
+![Texto alternativo](images/Screenshot_1.png)
