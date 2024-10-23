@@ -10,7 +10,7 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 
 ## Tema 1 - Servidores Web
 
-| Ejercicio 1 | Descripción  |
+|[Ejercicio 1](Tema1/Trabajando-con-scripts/Practica1.md)| Scripts básicos en apache |
 |-------------|--------------|
 | Ejercicio 2 | Descripción  |
 
