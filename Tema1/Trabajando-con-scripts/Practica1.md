@@ -22,3 +22,15 @@
 ![Texto alternativo](images/Captura2.png)
 
 3. **Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje**
+<br>
+¿Qué acciones realiza este script?
+<br>
+-Cambio de directorio: Se mueve al directorio /var/www/monti.com y muestra la ruta actual.
+<br>
+-Entrada del usuario: Solicita al usuario que ingrese el nombre del archivo HTML.
+<br>
+-Verificación de existencia: Comprueba si el archivo ya existe. Si existe, pregunta al usuario si desea sobreescribirlo.
+<br>
+Si el usuario elige no sobreescribir, la operación se cancela.
+<br>
+-Recopilación de datos: Solicita al usuario que ingrese el título de la página, la cabecera y el mensaje.
