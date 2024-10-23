@@ -20,3 +20,5 @@
 <br>
 
 ![Texto alternativo](images/Captura2.png)
+
+3. **Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje**
