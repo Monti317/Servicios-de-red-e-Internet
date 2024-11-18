@@ -31,4 +31,7 @@ También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina
 <br>
 ## 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 <br>
-Vamos a comenzar con la instalación de MySql con el siguiente comando. ```sudo apt install mysql-server```
+Vamos a comenzar con la instalación de MySql con el siguiente comando:
+<br>
+```sudo apt install mysql-server```
+
