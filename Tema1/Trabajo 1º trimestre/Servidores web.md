@@ -34,5 +34,5 @@ También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina
 Vamos a comenzar con la instalación de MySql con el siguiente comando:
 <br>
 
-```hhtp://localhost```
+```sudo apt install mysql-server```
 
