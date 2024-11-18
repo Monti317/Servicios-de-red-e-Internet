@@ -28,3 +28,5 @@ Ya instalado vamos a comprobar que todo este correctamente, para esto vamos a po
 También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina virtual para comprobar que funciona correctamente.
 <br>
 ![Comprobamos Instalacion Apache2](images/Screenshot_5.png)
+<br>
+## 2. Activación de módulos para PHP y MySQL.
