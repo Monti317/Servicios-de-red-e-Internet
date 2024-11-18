@@ -33,4 +33,6 @@ También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina
 <br>
 Vamos a comenzar con la instalación de MySql con el siguiente comando:
 <br>
+
 ```hhtp://localhost```
+
