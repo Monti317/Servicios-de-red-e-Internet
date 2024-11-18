@@ -10,3 +10,6 @@ Comenzaremos con la instalación de Apache, pero primero lo que vamos a hacer es
 Una vez descargadas las actualizaciones vamos a instalarlas con el siguiente comando:
 <br>
 ![Update2](images/Screenshot_2.png)
+<br>
+Ya tenemos nuestro sistema operativo actualizado vamos a comenzar con  la instalación de Apache.
+<br>
