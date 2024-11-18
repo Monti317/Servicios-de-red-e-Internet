@@ -18,3 +18,9 @@ Para la instalación de apache vamos a poner el siguiente comando:
 ```sudo apt install apache2```
 <br>
 ![Instalacion Apache](images/Screenshot_3.png)
+<br>
+Ya instalado vamos a comprobar que todo este correctamente, para esto vamos a poner el siguiente comando:
+<br>
+```service apache2 status```
+<br>
+![Comprobamos Instalacion Apache](images/Screenshot_4.png)
