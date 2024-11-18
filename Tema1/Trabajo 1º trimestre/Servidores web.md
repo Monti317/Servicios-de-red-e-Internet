@@ -24,3 +24,7 @@ Ya instalado vamos a comprobar que todo este correctamente, para esto vamos a po
 ```service apache2 status```
 <br>
 ![Comprobamos Instalacion Apache](images/Screenshot_4.png)
+<br>
+También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina virtual para comprobar que funciona correctamente.
+<br>
+![Comprobamos Instalacion Apache2](images/Screenshot_5.png)
