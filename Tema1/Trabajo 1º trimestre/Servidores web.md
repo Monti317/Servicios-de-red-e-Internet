@@ -13,3 +13,6 @@ Una vez descargadas las actualizaciones vamos a instalarlas con el siguiente com
 <br>
 Ya tenemos nuestro sistema operativo actualizado vamos a comenzar con  la instalación de Apache.
 <br>
+Para la instalación de apache vamos a poner el siguiente comando:
+<br>
+```sudo apt install apache2```
