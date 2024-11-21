@@ -35,4 +35,6 @@ Vamos a comenzar con la instalación de MySql con el siguiente comando:
 <br>
 
 ```sudo apt install mysql-server```
+<br>
+![Instalación MYSQL](images/Screenshot_6.png)
 
