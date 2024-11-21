@@ -44,5 +44,9 @@ Comprobamos que MySQL esta instalado con el siguiente comando:
 ```sudo mysql```
 <br>
 ![Comprobación MYSQL](images/Screenshot_7.png)
-
-
+<br>
+Vamos a seguir con la instalación de MySql con los siguientes comandos:
+<br>
+```sudo mysql_secure_installation```
+<br>
+![Instalacion MYSQL2](images/Screenshot_8.png)
