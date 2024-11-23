@@ -68,3 +68,6 @@ También quitaremos la base de datos que viene por defecto.
 Y por último rechazaremos actualizar la tabla de privilegios.
 <br>
 ![Instalacion MYSQL6](images/Screenshot_12.png)
+<br>
+Con esto ya tendríamos mysql instalado correctamente.
+<br>
