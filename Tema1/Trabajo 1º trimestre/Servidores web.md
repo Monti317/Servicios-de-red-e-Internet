@@ -49,4 +49,22 @@ Vamos a seguir con la instalación de MySql con los siguientes comandos:
 <br>
 ```sudo mysql_secure_installation```
 <br>
+En el primer paramatero que es el que nos van a preguntar sobre las contraseñas vamos a poner que no.
+<br>
 ![Instalacion MYSQL2](images/Screenshot_8.png)
+<br>
+En el siguiente parámetro nos pregunta para quitar a los usuarios anonimos que puedan logearse en este caso seleccionaremos que si.
+<br>
+![Instalacion MYSQL3](images/Screenshot_9.png)
+<br>
+Seguimos rellenando los parámetros de configuración, esta vez sobre la conexión en remoto que la desactivaremos.
+<br>
+![Instalacion MYSQL4](images/Screenshot_10.png)
+<br>
+También quitaremos la base de datos que viene por defecto.
+<br> 
+![Instalacion MYSQL5](images/Screenshot_11.png)
+<br>
+Y por último rechazaremos actualizar la tabla de privilegios.
+<br>
+![Instalacion MYSQL6](images/Screenshot_12.png)
