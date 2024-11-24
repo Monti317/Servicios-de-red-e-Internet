@@ -71,3 +71,9 @@ Y por último rechazaremos actualizar la tabla de privilegios.
 <br>
 Con esto ya tendríamos mysql instalado correctamente.
 <br>
+Una vez ya instalado MYSql vamos a comenzar con la instalación de PHP, con el siguiente comando:
+<br>
+```sudo apt install php libapache2-mod-php php-myslq```
+<br>
+![Instalacion PHP](images/Screenshot_13.png)
+<br>
