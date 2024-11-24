@@ -77,7 +77,7 @@ Una vez ya instalado MYSql vamos a comenzar con la instalación de PHP, con el s
 <br>
 ![Instalacion PHP](images/Screenshot_13.png)
 <br>
-Para comprobar que la instalación se ha llevado a cabo correctamente podemos poner el comnado ```php -v``` y si se ha instalado php correctamente nos deberá decir la versión de nuestro php ya instalado:
+Para comprobar que la instalación se ha llevado a cabo correctamente podemos poner el comando ```php -v``` y, si se ha instalado php correctamente nos deberá decir la versión de nuestro php ya instalado:
 <br>
 ![Version PHP](images/Screenshot_14.png)
 <br>
