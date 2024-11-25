@@ -123,4 +123,10 @@ sudo mkdir /var/www/departamentos.centro.intranet
 ![Creamos carpetas](images/Screenshot_15.png)
 
 <br>
-También crearemos los archivos de configuración de ambas páginas 
+También crearemos los archivos de configuración de ambas páginas con el comando:
+
+```
+sudo nano /etc/apache2/sites-avaiable/centro.intranet.conf
+```
+![Creamos Ficheros de configuracion](images/Screenshot_18.png)
+
