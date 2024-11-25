@@ -40,7 +40,10 @@ Para que se apliquen los cambios deberemos reiniciar apache con el comando:
 ```
 sudo service apache2 restart
 ```
-
+![Comprobar hosts](images/Screenshot_17.png)
+<br>
+Y como podemos ver lo comprobamos con un dominio y esta correcto.
+<br>
 
 ## 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 <br>
@@ -50,10 +53,6 @@ Vamos a comenzar con la instalación de MySql con el siguiente comando:
 ```
 sudo apt install mysql-server
 ```
-![Comprobar hosts](images/Screenshot_17.png)
-<br>
-Y como podemos ver lo comprobamos con un dominio y esta correcto.
-<br>
 
 ![Instalación MYSQL](images/Screenshot_6.png)
 <br>
