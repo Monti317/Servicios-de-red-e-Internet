@@ -109,4 +109,5 @@ sudo mkdir /var/www/departamentos.centro.intranet
 ``` 
 ![Creamos carpetas](images/Screenshot_15.png)
 
-
+<br>
+También crearemos los archivos de configuración de ambas páginas 
