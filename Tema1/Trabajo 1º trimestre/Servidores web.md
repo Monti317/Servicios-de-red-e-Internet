@@ -130,3 +130,9 @@ sudo nano /etc/apache2/sites-avaiable/centro.intranet.conf
 ```
 ![Creamos Ficheros de configuracion](images/Screenshot_18.png)
 
+<br>
+Y rellenamos su configuración:
+<br>
+
+![Fichero de configuracion](images/Screenshot_19.png)
+
