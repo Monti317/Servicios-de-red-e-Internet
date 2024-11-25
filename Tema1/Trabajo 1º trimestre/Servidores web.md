@@ -104,6 +104,8 @@ sudo mkdir /var/www/centro.intranet
 Y para nuestro segundo dominio:
 <br>
 
-```sudo mkdir /var/www/departamentos.centro.intranet``` 
+```
+sudo mkdir /var/www/departamentos.centro.intranet
+``` 
 <br>
 
