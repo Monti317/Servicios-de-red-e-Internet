@@ -107,5 +107,6 @@ Y para nuestro segundo dominio:
 ```
 sudo mkdir /var/www/departamentos.centro.intranet
 ``` 
-<br>
+![Creamos carpetas](images/Screenshot_15.png)
+
 
