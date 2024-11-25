@@ -81,3 +81,17 @@ Para comprobar que la instalación se ha llevado a cabo correctamente podemos po
 <br>
 ![Version PHP](images/Screenshot_14.png)
 <br>
+## 2. Instala y configura Wordpress.
+<br>
+Empezaremos creando las carpetas donde vamos a tener los dominios que nos pide el ejercicio, para crear las carpetas donde vamos a tener nuestro dominio con el siguiente comando:
+<br>
+
+```sudo mkdir /var/www/centro.intranet``` 
+
+<br> 
+Y para nuestro segundo dominio:
+<br>
+
+```sudo mkdir /var/www/departamentos.centro.intranet``` 
+<br>
+
