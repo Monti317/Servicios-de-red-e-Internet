@@ -32,6 +32,16 @@ También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina
 <br>
 ![Comprobamos Instalacion Apache2](images/Screenshot_5.png)
 <br>
+Y añadiremos los nombres de dominio que nos pide el ejercicio al archivo hosts.
+<br>
+![Añadir hosts](images/Screenshot_16.png)
+<br>
+Para que se apliquen los cambios deberemos reiniciar apache con el comando: 
+```
+sudo service apache2 restart
+```
+
+
 ## 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 <br>
 Vamos a comenzar con la instalación de MySql con el siguiente comando:
@@ -40,6 +50,10 @@ Vamos a comenzar con la instalación de MySql con el siguiente comando:
 ```
 sudo apt install mysql-server
 ```
+![Comprobar hosts](images/Screenshot_17.png)
+<br>
+Y como podemos ver lo comprobamos con un dominio y esta correcto.
+<br>
 
 ![Instalación MYSQL](images/Screenshot_6.png)
 <br>
