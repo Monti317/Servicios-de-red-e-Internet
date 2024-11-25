@@ -18,14 +18,14 @@ Para la instalación de apache vamos a poner el siguiente comando:
 ```
 sudo apt install apache2
 ```
-
-
 ![Instalacion Apache](images/Screenshot_3.png)
 <br>
 Ya instalado vamos a comprobar que todo este correctamente, para esto vamos a poner el siguiente comando:
 <br>
-```service apache2 status```
-<br>
+```
+service apache2 status
+```
+
 ![Comprobamos Instalacion Apache](images/Screenshot_4.png)
 <br>
 También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina virtual para comprobar que funciona correctamente.
@@ -37,21 +37,27 @@ También podemos poner ```hhtp://localhost``` en el navegador de nuestra maquina
 Vamos a comenzar con la instalación de MySql con el siguiente comando:
 <br>
 
-```sudo apt install mysql-server```
-<br>
+```
+sudo apt install mysql-server
+```
+
 ![Instalación MYSQL](images/Screenshot_6.png)
 <br>
 Comprobamos que MySQL esta instalado con el siguiente comando:
 <br>
 
-```sudo mysql```
-<br>
+```
+sudo mysql
+```
+
 ![Comprobación MYSQL](images/Screenshot_7.png)
 <br>
 Vamos a seguir con la instalación de MySql con los siguientes comandos:
 <br>
-```sudo mysql_secure_installation```
-<br>
+```
+sudo mysql_secure_installation
+```
+
 En el primer paramatero que es el que nos van a preguntar sobre las contraseñas vamos a poner que no.
 <br>
 ![Instalacion MYSQL2](images/Screenshot_8.png)
@@ -76,8 +82,10 @@ Con esto ya tendríamos mysql instalado correctamente.
 <br>
 Una vez ya instalado MYSql vamos a comenzar con la instalación de PHP, con el siguiente comando:
 <br>
-```sudo apt install php libapache2-mod-php php-myslq```
-<br>
+```
+sudo apt install php libapache2-mod-php php-myslq
+```
+
 ![Instalacion PHP](images/Screenshot_13.png)
 <br>
 Para comprobar que la instalación se ha llevado a cabo correctamente podemos poner el comando ```php -v``` y, si se ha instalado php correctamente nos deberá decir la versión de nuestro php ya instalado:
@@ -89,9 +97,10 @@ Para comprobar que la instalación se ha llevado a cabo correctamente podemos po
 Empezaremos creando las carpetas donde vamos a tener los dominios que nos pide el ejercicio, para crear las carpetas donde vamos a tener nuestro dominio con el siguiente comando:
 <br>
 
-```sudo mkdir /var/www/centro.intranet``` 
+```
+sudo mkdir /var/www/centro.intranet
+``` 
 
-<br> 
 Y para nuestro segundo dominio:
 <br>
 
