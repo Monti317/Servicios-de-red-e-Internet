@@ -135,4 +135,7 @@ Y rellenamos su configuración:
 <br>
 
 ![Fichero de configuracion](images/Screenshot_19.png)
+<br> 
+Y haremos exactamente lo mismo con el otro dominio.
+
 
