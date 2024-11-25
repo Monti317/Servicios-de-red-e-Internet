@@ -141,5 +141,14 @@ Y haremos exactamente lo mismo con el otro dominio.
 ![Creamos Ficheros de configuracion2](images/Screenshot_20.png)
 <br>
 ![Fichero de configuracion2](images/Screenshot_21.png)
+<br> 
+Ya creados los ficheros de configuración vamos a activar los sitios web con los siguientes comandos:
+```
+sudo a2ensite centro.intranet
+```
+```
+sudo a2ensite departamentos.centro.intranet
+```
+
 
 
