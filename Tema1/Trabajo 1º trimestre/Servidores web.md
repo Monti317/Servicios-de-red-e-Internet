@@ -149,6 +149,12 @@ sudo a2ensite centro.intranet
 ```
 sudo a2ensite departamentos.centro.intranet
 ```
-
+![Activamos Sitios Web](images/Screenshot_22.png)
+<br> 
+Como podemos ver en la captura nos pide que para que estos cambios se apliquen deberemos poner el comando:
+```
+systemctl reload apache2
+```
+![Reiniciamos apache](images/Screenshot_23.png)
 
 
