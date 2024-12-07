@@ -374,5 +374,5 @@ Y nos pedirá que reiniciemos apache2
 Ahora vamos a acceder a "http://centro.intranet/awstats/awstats.pl" y nos aparecerán las estadisticas de nuestra página web.
 <br>
 ![Estadisticas pag web](images/Screenshot_52.png)
-
-
+<br>
+## 8. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
