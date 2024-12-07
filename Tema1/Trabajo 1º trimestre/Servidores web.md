@@ -412,5 +412,18 @@ Y cambiar el server name a "servidor2.centro.intranet" que es como nos lo indica
 <br>
 ![server name nginx](images/Screenshot_59.png)
 <br>
+Agregaremos "servidor2.centro.intranet" a nuestro archivo hosts:
+<br>
+![hosts nginx](images/Screenshot_60.png)
+<br>
+Por último antes de intentar acceder en nuestro navegador reiniciaremos nginx para aplicar todos los cambios con el comando:
+```
+sudo systemctl restart nginx
+```
+Y como podemos ver ya estamos dentro de la web:
+<br>
+![ nginx](images/Screenshot_61.png)
+<br>
+
 
 
