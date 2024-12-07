@@ -235,5 +235,14 @@ Y como podemos ver nos entra a la página del administrador:
 <br>
 ![Administrador wordpress](images/Screenshot_35.png)
 <br>
-## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
+## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python.
+<br>
+Para activar el módulo "wsgi" simplemente tendremos que ejecutar el siguiente comando:
+
+```
+sudo apt-get install libapache2-mod-wsgi-py3
+```
+![Activamos modulo wsgi](images/Screenshot_36.png)
+<br>
+## 5. Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
 
