@@ -156,4 +156,5 @@ systemctl reload apache2
 ![Reiniciamos apache](images/Screenshot_23.png)
 
 ## 2. Instala y configura Wordpress.
+<br>
 
