@@ -347,6 +347,10 @@ Ademas también realizaremos este otro cambio:
 <br>
 ![Cambios en el conf de aw2](images/Screenshot_47.png)
 <br>
-
+Ya modificados ambos parámetros tendremos que empezar con unas estadísticas, las cuales generaremos con el siguiente comando:
+```
+sudo /usr/lib/cgi-bin/awstats.pl -config=centro.intranet -update
+```
+![Generamos estadisticas](images/Screenshot_48.png)
 
 
