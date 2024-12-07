@@ -408,6 +408,9 @@ Deberemos cambiar el root del archivo de configuración al nuevo index que acabo
 <br>
 ![root nginx](images/Screenshot_58.png)
 <br>
-
+Y cambiar el server name a "servidor2.centro.intranet" que es como nos lo indica la práctica:
+<br>
+![server name nginx](images/Screenshot_59.png)
+<br>
 
 
