@@ -444,7 +444,21 @@ Para añadir php a ngnix deberemos añadir lo siguiente a nuestro archivo de con
 <br>
 ![Conf ngix php](images/Screenshot_64.png)
 <br>
-
+Instalamos php-fpm con el comando:
+```
+sudo apt install php8.1-fpm
+```
+Por último crearemos un usuario para entrar en php myadmin:
+<br>
+![Creamos usuario php](images/Screenshot_65.png)
+<br>
+Una vez el usuario creado entraremos en "http://servidor2.centro.intranet:8080/phpmyadmin"
+<br>
+![phpmyadmin](images/Screenshot_66.png)
+<br>
+Como podemos ver nos pide usuario y contraseña, y una vez que la introducimos ya estamos dentro:
+<br>
+![phpmyadmin2](images/Screenshot_67.png)
 
 
 
