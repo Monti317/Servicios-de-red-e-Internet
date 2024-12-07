@@ -181,5 +181,12 @@ tar -xzf latest.tar.gz
 <br>
 Una vez descomprimido, vamos a moverlo al directorio de nuestra página:
 ```
-sudo mv wordpress/* /var/www/XXX/
+sudo mv wordpress/* /var/www/centro.intranet
 ```
+![Movemos Wordpress](images/Screenshot_27.png)
+<br>
+Podemos ver que se ha movido correctamente con el comando:
+```
+ls /var/www/centro.intranet
+```
+![LS /var/wwW/centro.intranet](images/Screenshot_28.png)
