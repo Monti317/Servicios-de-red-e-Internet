@@ -326,5 +326,27 @@ Empezaremos instalando el servicio de awstats con el comando:
 sudo apt-get install awstats
 ```
 ![Instalamos awstats](images/Screenshot_44.png)
+<br>
+Ya instalado vamos a activar el modulo CGI con el comando:
+```
+sudo a2enmod cgi
+```
+También deberemos reiniciar apache ya que nos lo pide al activar el modulo CGI:
+<br>
+![Activamos CGI](images/Screenshot_45.png)
+<br>
+Ahora modificaremos el archivo de configuración de awstats con el comando:
+```
+sudo nano /etc/awstats/awstats.conf
+```
+Tendremos que cambiar los siguientes parámetros:
+<br>
+![Cambios en el conf de aw1](images/Screenshot_46.png)
+<br>
+Ademas también realizaremos este otro cambio:
+<br>
+![Cambios en el conf de aw2](images/Screenshot_47.png)
+<br>
+
 
 
