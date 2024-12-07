@@ -458,7 +458,7 @@ Una vez el usuario creado entraremos en "http://servidor2.centro.intranet:8080/p
 <br>
 Como podemos ver nos pide usuario y contraseña, y una vez que la introducimos ya estamos dentro:
 <br>
-![phpmyadmin2](images/Screenshot_67.png)
+![phpmyadmin2](images/Screenshot_68.png)
 
 
 
