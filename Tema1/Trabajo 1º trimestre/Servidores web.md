@@ -396,6 +396,18 @@ Ahora vamos a modificar su otro archivo de configuración para cambiar los puert
 <br>
 ![Config nginx2](images/Screenshot_55.png)
 <br>
+Ya modficado ambos archivos vamos a crear un directorio donde meteremos nuestro index:
+<br>
+![Creamos directorios nginx](images/Screenshot_56.png)
+<br>
+Y el index nos quedará tal que así:
+<br>
+![index nginx](images/Screenshot_57.png)
+<br>
+Deberemos cambiar el root del archivo de configuración al nuevo index que acabos de crear:
+<br>
+![root nginx](images/Screenshot_58.png)
+<br>
 
 
 
