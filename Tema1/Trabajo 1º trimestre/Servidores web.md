@@ -392,5 +392,10 @@ Para que como nos pide el enunciado el http eschuche en el puerto 8080, para est
 <br>
 ![Config nginx](images/Screenshot_54.png)
 <br>
+Ahora vamos a modificar su otro archivo de configuración para cambiar los puertos por los que escucha:
+<br>
+![Config nginx2](images/Screenshot_55.png)
+<br>
+
 
 
