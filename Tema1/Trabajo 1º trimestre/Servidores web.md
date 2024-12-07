@@ -356,5 +356,13 @@ sudo /usr/lib/cgi-bin/awstats.pl -config=centro.intranet -update
 Por último haremos unas configuraciones en apache con los siguientes comandos:
 <br>
 ![Config apache](images/Screenshot_49.png)
+<br>
+También crearemos el archivo de configuración de awstats en apache con el comando:
+```
+sudo nano /etc/apache2/conf-available/awstats.conf
+```
+Y añadiremos lo siguiente:
+<br>
+![Config awstats.conf](images/Screenshot_50.png)
 
 
