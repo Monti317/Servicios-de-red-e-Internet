@@ -227,6 +227,12 @@ Como podemos ver se ha instalado correctamente:
 <br>
 Una vez ya configurado pulsaremos "log in"
 <br>
-
+Iniciamos sesión con nuestras credenciales:
+<br>
+![Inicio de sesion wordpress](images/Screenshot_34.png)
+<br>
+Y como podemos ver nos entra a la página del administrador:
+<br>
+![Administrador wordpress](images/Screenshot_35.png)
 
 
