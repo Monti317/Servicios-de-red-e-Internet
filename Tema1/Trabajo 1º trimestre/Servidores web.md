@@ -376,3 +376,21 @@ Ahora vamos a acceder a "http://centro.intranet/awstats/awstats.pl" y nos aparec
 ![Estadisticas pag web](images/Screenshot_52.png)
 <br>
 ## 8. Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
+<br>
+Lo primero que vamos a hacer es instalar el servidor nginx , para eso vamos a utilizar el siguiente comando:
+
+```
+sudo apt install nginx
+```
+![Install nginx](images/Screenshot_53.png)
+<br>
+Una vez instalado tendremos que modificar su arhivo de configuración con el comando:
+```
+sudo nano /etc/nginx/nginx.conf
+```
+Para que como nos pide el enunciado el http eschuche en el puerto 8080, para esto añadiremos las siguientes lineas:
+<br>
+![Config nginx](images/Screenshot_54.png)
+<br>
+
+
