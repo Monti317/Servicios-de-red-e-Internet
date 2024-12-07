@@ -364,5 +364,15 @@ sudo nano /etc/apache2/conf-available/awstats.conf
 Y añadiremos lo siguiente:
 <br>
 ![Config awstats.conf](images/Screenshot_50.png)
+<br>
+Para que todo esto se aplique deberemos habilitar la configuración de awstats:
+<br>
+![Habilitar Config awstats.conf](images/Screenshot_51.png)
+<br>
+Y nos pedirá que reiniciemos apache2
+<br>
+Ahora vamos a acceder a "http://centro.intranet/awstats/awstats.pl" y nos aparecerán las estadisticas de nuestra página web.
+<br>
+![Estadisticas pag web](images/Screenshot_52.png)
 
 
