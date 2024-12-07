@@ -245,4 +245,17 @@ sudo apt-get install libapache2-mod-wsgi-py3
 ![Activamos modulo wsgi](images/Screenshot_36.png)
 <br>
 ## 5. Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
+Lo primero que vamos a hacer es irnos al directorio donde va a estar la app:
+```
+cd /var/www/departamentos.centro.intranet
+```
+Una vez aquí creamos los directorios necesarios
+```
+mkdir pythonprueba
+mkdir public_html
+mkdir logs
+```
+![Creamos directorios](images/Screenshot_37.png)
+<br>
+
 
