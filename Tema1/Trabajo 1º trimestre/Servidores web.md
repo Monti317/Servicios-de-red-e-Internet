@@ -317,3 +317,14 @@ Y anadiremos lo siguiente dentro del fichero de configuración del servidor:
 Y como podemos ver ahora al intentar entrar nos pide la contraseña:
 <br>
 ![Pide contraseña](images/Screenshot_43.png)
+<br>
+## 7. Instala y configura awstat.
+<br>
+Empezaremos instalando el servicio de awstats con el comando:
+
+```
+sudo apt-get install awstats
+```
+![Instalamos awstats](images/Screenshot_44.png)
+
+
