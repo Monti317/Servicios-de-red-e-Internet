@@ -436,6 +436,11 @@ sudo ln -s /usr/share/phpmyadmin /var/www/nginx/phpmyadmin
 ```
 ![Enlace](images/Screenshot_62.png)
 <br>
+Y cambiaremos los permisos:
+<br>
+![Permisos](images/Screenshot_63.png)
+<br>
+
 
 
 
