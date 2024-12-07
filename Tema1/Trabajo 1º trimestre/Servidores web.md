@@ -264,7 +264,7 @@ echo '# -*- coding: utf-8 -*-' > pythonprueba/controller.py
 Una vez creado el archivo lo modificamos:
 ```
 def application(environ, start_response):
-  output = b'<p>Aplicacion python prueba</p>'
+  output = b'<p>Bienvenido a <b>Departamentos<b>!!!</p>'
   start_responde('200 OK', [('Content-Type', 'text/html; charset=utf-8')])
   return [output]
 ```
@@ -285,5 +285,6 @@ CustomLog /var/www/departamentos.centro.intranet/logs/access.log combined
 </Directory>
 ```
 ![Modificamos archivo .conf](images/Screenshot_39.png)
-
+<br>
+![Bienvenido a departamentos](images/Screenshot_40.png)
 
