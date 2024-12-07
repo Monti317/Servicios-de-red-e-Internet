@@ -157,4 +157,11 @@ systemctl reload apache2
 
 ## 2. Instala y configura Wordpress.
 <br>
+Lo primero que vamos a hacer es instalar MariaDB y Worpress.
+<br>
+Para instalar MariaDB utilizaremos el siguiente comando:
 
+```
+sudo apt-get install mariadb-client mariadb-server
+```
+![Instalamos MariaDB](images/Screenshot_24.png)
