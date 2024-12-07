@@ -440,6 +440,10 @@ Y cambiaremos los permisos:
 <br>
 ![Permisos](images/Screenshot_63.png)
 <br>
+Para añadir php a ngnix deberemos añadir lo siguiente a nuestro archivo de conf de nginx:
+<br>
+![Conf ngix php](images/Screenshot_64.png)
+<br>
 
 
 
