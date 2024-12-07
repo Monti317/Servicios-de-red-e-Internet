@@ -257,5 +257,33 @@ mkdir logs
 ```
 ![Creamos directorios](images/Screenshot_37.png)
 <br>
+Ya todo listo vamos a crear la aplicación Python:
+```
+echo '# -*- coding: utf-8 -*-' > pythonprueba/controller.py
+```
+Una vez creado el archivo lo modificamos:
+```
+def application(environ, start_response):
+  output = b'<p>Aplicacion python prueba</p>'
+  start_responde('200 OK', [('Content-Type', 'text/html; charset=utf-8')])
+  return [output]
+```
+![Modificamos archivo python](images/Screenshot_38.png)
+<br>
+Ahora deberemos tocar el archivo de configuración del dominio "departamentos.centro.intranet" para que cuando lo busquemos salga nuestra app python:
+<br>
+Añadiremos lo siguiente:
+```
+DocumentRoot /var/www/departamentos.centro.intranet/public_html
+WSGIScriptAlias / /var/www/departamentos.centro.intranet/pythonprueba/controller.py
+ErrorLog /var/www/departamentos.centro.intranet/logs/error.log
+CustomLog /var/www/departamentos.centro.intranet/logs/access.log combined
+
+<Directory />
+  Options FollowSymLinks
+  AllowOverride All
+</Directory>
+```
+![Modificamos archivo .conf](images/Screenshot_39.png)
 
 
