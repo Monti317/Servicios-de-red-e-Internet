@@ -178,4 +178,8 @@ Una vez lo tenemos descargado lo vamos a descomprimir con el comando:
 tar -xzf latest.tar.gz
 ```
 ![Descomprimimos Wordpress](images/Screenshot_26.png)
-
+<br>
+Una vez descomprimido, vamos a moverlo al directorio de nuestra página:
+```
+sudo mv wordpress/* /var/www/XXX/
+```
