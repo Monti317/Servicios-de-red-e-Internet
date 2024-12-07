@@ -214,3 +214,19 @@ define( 'DB_USER', 'user' );
 define( 'DB_PASSWORD', '1234' );
 ```
 ![Editamos .conf wordpress](images/Screenshot_31.png)
+<br>
+Ya configurado el archivo de configuración, entraremos en el wordpress y nos aparecerá el siguiente asistente que nos ayudará a configurarlo:
+<br>
+Lo rellenamos con nuestros datos:
+<br>
+![Configurando wordpress 1](images/Screenshot_32.png)
+<br>
+Como podemos ver se ha instalado correctamente:
+<br>
+![Configurando wordpress 2](images/Screenshot_33.png)
+<br>
+Una vez ya configurado pulsaremos "log in"
+<br>
+
+
+
