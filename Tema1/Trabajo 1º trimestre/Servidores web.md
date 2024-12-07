@@ -155,7 +155,7 @@ systemctl reload apache2
 ```
 ![Reiniciamos apache](images/Screenshot_23.png)
 
-## 2. Instala y configura Wordpress.
+## 3. Instala y configura Wordpress.
 <br>
 Lo primero que vamos a hacer es instalar MariaDB y Worpress.
 <br>
@@ -234,5 +234,6 @@ Iniciamos sesión con nuestras credenciales:
 Y como podemos ver nos entra a la página del administrador:
 <br>
 ![Administrador wordpress](images/Screenshot_35.png)
-
+<br>
+## 4. Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
