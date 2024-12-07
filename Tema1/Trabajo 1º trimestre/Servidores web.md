@@ -314,3 +314,6 @@ Y anadiremos lo siguiente dentro del fichero de configuración del servidor:
 ```
 ![Modificamos apache.conf contraseñas](images/Screenshot_42.png)
 <br>
+Y como podemos ver ahora al intentar entrar nos pide la contraseña:
+<br>
+![Pide contraseña](images/Screenshot_43.png)
