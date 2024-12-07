@@ -290,3 +290,27 @@ Y ya estaria nuestra app python en funcionamiento:
 <br>
 ![Bienvenido a departamentos](images/Screenshot_40.png)
 
+## 6. Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación.
+<br>
+Lo primero que vamos a hacer es crear un directorio para almacenar las credenciales:
+
+```
+mkdir /var/www/departamentos.centro.intranet/passwd
+```
+Una vez ya tenemos el directorio creamos la contraseña con el comando:
+```
+htpasswd -c /var/www/departamentos.centro.intranet/passwd/passwords user
+```
+![Creamos PASS](images/Screenshot_41.png)
+<br>
+Y anadiremos lo siguiente dentro del fichero de configuración del servidor:
+```
+<Directory /var/www/departamentos.centro.intranet/pythonprueba>
+  AuthType Basic
+  AuthName "Restricted Files"
+  AuthUserFile /var/www/departamentos.centro.intranet/passwd/passwords
+  Require user user
+</Directory>
+```
+![Modificamos apache.conf contraseñas](images/Screenshot_42.png)
+<br>
