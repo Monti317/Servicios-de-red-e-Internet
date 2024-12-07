@@ -286,5 +286,7 @@ CustomLog /var/www/departamentos.centro.intranet/logs/access.log combined
 ```
 ![Modificamos archivo .conf](images/Screenshot_39.png)
 <br>
+Y ya estaria nuestra app python en funcionamiento:
+<br>
 ![Bienvenido a departamentos](images/Screenshot_40.png)
 
