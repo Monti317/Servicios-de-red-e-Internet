@@ -352,5 +352,9 @@ Ya modificados ambos parámetros tendremos que empezar con unas estadísticas, l
 sudo /usr/lib/cgi-bin/awstats.pl -config=centro.intranet -update
 ```
 ![Generamos estadisticas](images/Screenshot_48.png)
+<br>
+Por último haremos unas configuraciones en apache con los siguientes comandos:
+<br>
+![Config apache](images/Screenshot_49.png)
 
 
