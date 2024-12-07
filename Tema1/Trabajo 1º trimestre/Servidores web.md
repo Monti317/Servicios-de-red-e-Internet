@@ -165,3 +165,17 @@ Para instalar MariaDB utilizaremos el siguiente comando:
 sudo apt-get install mariadb-client mariadb-server
 ```
 ![Instalamos MariaDB](images/Screenshot_24.png)
+<br>
+Para instalar Wordpress utilizaremos el siguiente comando:
+
+```
+sudo wget https://wordpress.org/latest.tar.gz
+```
+![Descargamos Wordpress](images/Screenshot_25.png)
+<br>
+Una vez lo tenemos descargado lo vamos a descomprimir con el comando:
+```
+tar -xzf latest.tar.gz
+```
+![Descomprimimos Wordpress](images/Screenshot_26.png)
+
