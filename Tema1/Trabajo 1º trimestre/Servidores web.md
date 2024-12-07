@@ -190,3 +190,27 @@ Podemos ver que se ha movido correctamente con el comando:
 ls /var/www/centro.intranet
 ```
 ![LS /var/wwW/centro.intranet](images/Screenshot_28.png)
+<br>
+Antes de configurar wordpress tendremos que crear la base de datos en Maria DB, para esto entramos en MariaDB con el comando:
+```
+sudo mariadb
+```
+![Entramos en MAriadb](images/Screenshot_29.png)
+<br>
+Y crearemos la Base de datos:
+<br>
+![Creamos base de datos](images/Screenshot_30.png)
+<br>
+Una vez creada la DB vamos a configurar el archivo de configuración de Wordpress:
+```
+sudo nano /var/www/centro.intranet/wp-config.php
+```
+Al que le añadiremos las siguientes lineas:
+```
+define( 'DB_NAME', 'db_wordpress' );
+
+define( 'DB_USER', 'user' );
+
+define( 'DB_PASSWORD', '1234' );
+```
+![Editamos .conf wordpress](images/Screenshot_31.png)
