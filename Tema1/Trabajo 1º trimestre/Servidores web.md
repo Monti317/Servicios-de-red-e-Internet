@@ -424,6 +424,18 @@ Y como podemos ver ya estamos dentro de la web:
 <br>
 ![ nginx](images/Screenshot_61.png)
 <br>
+Una vez finalizamos con nginx instalaremos phpmyadmin tal y como nos pide el enunciado.
+<br>
+Primero lo instalamos con el comando:
+```
+sudo apt install phpmyadmin
+```
+Ya instalado creamos un enlace con el comando:
+```
+sudo ln -s /usr/share/phpmyadmin /var/www/nginx/phpmyadmin
+```
+![Enlace](images/Screenshot_62.png)
+<br>
 
 
 
