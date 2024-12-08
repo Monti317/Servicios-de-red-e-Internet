@@ -12,5 +12,5 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 
 |[Ejercicio 1](Tema1/Trabajando-con-scripts/Practica1.md) | Scripts básicos en apache |
 |-------------|--------------|
-|[Ejercicio 2](Tema1/Trabajo 1º trimestre/Servidoresweb.md) | Trabajo de redes 1º trimestre |
+|[Ejercicio 2](Tema1/Trabajo1ºtrimestre/Servidoresweb.md) | Trabajo de redes 1º trimestre |
 
