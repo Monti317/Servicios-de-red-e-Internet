@@ -6,3 +6,7 @@ Para empezar actualizaremos nuestro servidor de Ubuntu con los siguientes comand
 sudo apt update
 ```
 ![](Images/Screenshot_1.png)
+
+```
+sudo apt upgrade
+```
