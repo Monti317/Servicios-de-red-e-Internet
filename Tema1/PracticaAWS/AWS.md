@@ -65,9 +65,31 @@ flush privileges;
 
 ![](Images/Screenshot_10.png)
 
-Ya configurados los permisos para el root, vamos a entrar en la base de datos recién creada:
+Ya configurados los permisos para el root, vamos a entrar en la base de datos recién creada para crear los usuarios:
 ```
 use defaultsite_db;
 ```
 ![](Images/Screenshot_11.png)
+```
+create table mysql_auth ( username varchar(191) not null, passwd varchar(191), groups varchar(191), primary key (username) );
+```
+![](Images/Screenshot_12.png)
+<br> 
+Encriptaremos la contraseña:
+```
+htpasswd -bns siteuser siteuser
+```
+![](Images/Screenshot_13.png)
+<br>
+Una vez nos da el hash tendremos que ponerlo en la tabla que creamos anteriormente de los usuarios, para esto tendremos que volver a entrar en la base de datos:
+```
+use defaultsite_db;
+```
+E introduciremos el siguiente comando:
+```
+INSERT INTO `mysql_auth` (`username`, `passwd`, `groups`) VALUES('siteuser', '{SHA}tk7HEH6Wo7SKT6+3FHCgiGnJ6dA=', 'sitegroup');
+```
+![](Images/Screenshot_14.png)
+<br>
+
 
