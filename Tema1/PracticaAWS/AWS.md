@@ -1,4 +1,4 @@
-## 1. Instalación del servidor web apache.
+## 1. Activar la autenticación con MySql
 <br>
 Para empezar actualizaremos nuestro servidor de Ubuntu con los siguientes comandos:
 
@@ -9,4 +9,10 @@ sudo apt update
 
 ```
 sudo apt upgrade
+```
+![](Images/Screenshot_2.png)
+<br>
+Una vez que ya tenemos nuestro Ubuntu Server actualizado empezaremos con la instalación de apache:
+```
+sudo apt-get install apache2
 ```
