@@ -139,3 +139,42 @@ Una vez hemos hecho estas modificaciones reiniciaremos apache
 Y como podemos ver una vez ponemos el usuario y la contraseña estamos dentro:
 <br>
 ![](Images/Screenshot_20.png)
+<br>
+## 2. Crear un certificado autofirmado y activar el módulo SSL
+<br>
+Empezaremos activando el modulo SSL con el comando 
+
+```
+a2enmod ssl 
+```
+![](Images/Screenshot_21.png)
+<br> 
+Crearemos el certificado con el comando:
+```
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-selfsigned.key -out /etc/ssl/certs/apache-selfsigned.crt
+```
+![](Images/Screenshot_22.png)
+<br> 
+Y rellenaremos los datos que nos pide:
+<br>
+![](Images/Screenshot_23.png)
+<br>
+Tendremos que cambiar la configuración Apache de nuestro dominio 
+```
+sudo nano /etc/apache2/sites-available/000-default.conf
+```
+![](Images/Screenshot_24.png)
+<br>
+Modificaremos lo siguiente:
+<br>
+![](Images/Screenshot_25.png)
+<br>
+![](Images/Screenshot_26.png)
+<br>
+Reiniciamos apache para que se apliquen los cambios:
+```
+sudo systemctl reload apache2
+```
+Y ya tendíamos todo configurado:
+<br>
+![](Images/Screenshot_27.png)
