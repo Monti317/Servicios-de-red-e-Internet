@@ -16,3 +16,27 @@ Una vez que ya tenemos nuestro Ubuntu Server actualizado empezaremos con la inst
 ```
 sudo apt-get install apache2
 ```
+![](Images/Screenshot_3.png)
+<br>
+Ya instalado apache nos tocará instalar PHP y MySQL:
+```
+sudo apt-get install apache2 php7.0 libapruti11-dbd-mysql -y
+```
+![](Images/Screenshot_4.png)
+<br>
+También instalaremos MariaDB:
+```
+sudo apt-get install mariadb-server mariadb-client -y
+```
+![](Images/Screenshot_5.png)
+<br>
+Ya todo esto instalado tendremos que activar los servicios, tanto de apache como de mysql:
+```
+sudo systemctl enable apache2
+```
+![](Images/Screenshot_6.png)
+```
+sudo systemctl enable mysql
+```
+![](Images/Screenshot_7.png)
+<br>
