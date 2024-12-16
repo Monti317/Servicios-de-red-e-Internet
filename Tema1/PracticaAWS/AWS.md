@@ -65,6 +65,9 @@ flush privileges;
 
 ![](Images/Screenshot_10.png)
 
-
-
+Ya configurados los permisos para el root, vamos a entrar en la base de datos recién creada:
+```
+use defaultsite_db;
+```
+![](Images/Screenshot_11.png)
 
