@@ -40,3 +40,31 @@ sudo systemctl enable mysql
 ```
 ![](Images/Screenshot_7.png)
 <br>
+Iniciados los servicios tendremos que crear la base de datos, para esto primero tendremos que entrar en mysql con el comando:
+```
+sudo mysql -u root -p
+```
+![](Images/Screenshot_8.png)
+<br>
+Creamos la BD con el comando:
+```
+create database defaultsite_db;
+```
+![](Images/Screenshot_9.png)
+<br>
+Una vez creada la base de datos tendremos que darle permisos totales a nuestro usuario root:
+```
+GRANT SELECT, INSERT, UPDATE, DELETE ON defaultsite_db.* TO 'defaultsite_admin'@'localhost' IDENTIFIED BY 'usuario';
+```
+```
+GRANT SELECT, INSERT, UPDATE, DELETE ON defaultsite_db.* TO 'defaultsite_admin'@'localhost.localdomain' IDENTIFIED BY 'password';
+```
+```
+flush privileges;
+```
+
+![](Images/Screenshot_10.png)
+
+
+
+
