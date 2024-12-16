@@ -91,5 +91,46 @@ INSERT INTO `mysql_auth` (`username`, `passwd`, `groups`) VALUES('siteuser', '{S
 ```
 ![](Images/Screenshot_14.png)
 <br>
+Activaremos los módulos dbd, authn_dbd, socache_shmcb, authn_socache:
+```
+sudo a2enmod dbd
+```
 
+```
+sudo a2enmod authn_dbd
+```
 
+```
+sudo a2enmod socache_shmcb
+```
+
+```
+sudo a2enmod authn_socache
+```
+![](Images/Screenshot_15.png)
+<br>
+Una vez todos habilitados reiniciaremos apache:
+```
+systemctl restart apache2
+```
+![](Images/Screenshot_16.png)
+<br>
+Creamos el directorio protegido.
+```
+sudo mkdir /var/www/html/protegido
+```
+```
+sudo chown -R www-data:www-data /var/www/html/protegido
+```
+![](Images/Screenshot_17.png)
+<br>
+Tendremos que cambiar la configuración de nuestro dominio:
+```
+sudo nano /etc/apache2/sites-available/000-default.conf
+```
+![](Images/Screenshot_18.png)
+<br>
+Tendremos que introducir las siguientes lineas:
+<br>
+![](Images/Screenshot_19.png)
+<br>
