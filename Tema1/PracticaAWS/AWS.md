@@ -137,4 +137,5 @@ Tendremos que introducir las siguientes lineas:
 Una vez hemos hecho estas modificaciones reiniciaremos apache
 <br>
 Y como podemos ver una vez ponemos el usuario y la contraseña estamos dentro:
+<br>
 ![](Images/Screenshot_20.png)
