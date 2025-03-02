@@ -157,4 +157,8 @@ Dejaremos la siguiente configuración por defecto
 <br>
 ![Texto alternativo](imagenes/Screenshot_35.png)
 <br>
+En el apartado de conectividad tendremos que asignar la VPC que creamos anteriormente
+<br>
+![Texto alternativo](imagenes/Screenshot_36.png)
+<br>
 
