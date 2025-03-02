@@ -278,3 +278,7 @@ Instalaremos el cliente con el comando
 <br>
 ![Texto alternativo](imagenes/Screenshot_62.png)
 <br>
+Ya con el cliente instalado tendremos que entrar en MYSQL 
+<br>
+![Texto alternativo](imagenes/Screenshot_63.png)
+<br>
