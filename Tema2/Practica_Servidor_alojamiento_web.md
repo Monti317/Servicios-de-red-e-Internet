@@ -179,4 +179,12 @@ Como podemos ver la base de datos ya esta creada
 <br>
 ![Texto alternativo](imagenes/Screenshot_40.png)
 <br>
+Una vez creada tendremos que configurarla en un EC2, para esto tendremos que irnos a nuestra base de datos y entrar en el apartado "Acciones"
+<br>
+![Texto alternativo](imagenes/Screenshot_41.png)
+<br>
+Seleccionamos la EC2 que creamos anteriormente y continuamos
+<br>
+![Texto alternativo](imagenes/Screenshot_42.png)
+<br>
 
