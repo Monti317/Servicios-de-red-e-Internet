@@ -187,4 +187,13 @@ Seleccionamos la EC2 que creamos anteriormente y continuamos
 <br>
 ![Texto alternativo](imagenes/Screenshot_42.png)
 <br>
+Nos pondrán los cambios que se han llevado a cabo, le damos a "Configurar"
+<br>
+![Texto alternativo](imagenes/Screenshot_43.png)
+<br>
+Y como podemos ver nos pone que la conexión se ha establecido con exito
+<br>
+![Texto alternativo](imagenes/Screenshot_44.png)
+<br>
+
 
