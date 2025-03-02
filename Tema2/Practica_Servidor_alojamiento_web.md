@@ -112,9 +112,18 @@ Lo primero que vamos a hacer es añadir un repositorio a nuestra máquina con el
 
 ![Texto alternativo](imagenes/Screenshot_25.png)
 <br>
-Ya añadido el repositorio vamos a comenzar con la instalación de PHP
+Ya añadido el repositorio instalaremos PHP
 <br>
 ![Texto alternativo](imagenes/Screenshot_26.png)
 <br>
+E instalaremos Mysql
+<br>
+![Texto alternativo](imagenes/Screenshot_27.png)
+<br>
+Ya instalados vamos a reiniciar apache2
+<br>
+![Texto alternativo](imagenes/Screenshot_28.png)
+<br>
+
 
 
