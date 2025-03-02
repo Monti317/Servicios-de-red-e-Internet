@@ -292,3 +292,8 @@ Quedaría tal que así : "54.211.14.162/wordpress/"
 <br>
 ![Texto alternativo](imagenes/Screenshot_65.png)
 <br>
+Y empezaremos con la configuración de wordpress, nos pedirán parametros básicos como el nombre de la base de datos, el usuario y contraseña del root...
+<br>
+![Texto alternativo](imagenes/Screenshot_66.png)
+<br>
+
