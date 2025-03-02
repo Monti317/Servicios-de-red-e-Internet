@@ -28,7 +28,7 @@ El resto lo dejaremos por defecto y crearemos la VPC
 <br>
 ![Texto alternativo](imagenes/Screenshot_6.png)
 <br>
-Y como podemos ver ya se empezaría a crear el VPS
+Y como podemos ver ya se empezaría a crear el VPC
 <br>
 ![Texto alternativo](imagenes/Screenshot_7.png)
 <br>
@@ -36,3 +36,4 @@ Ya la tenemos creada:
 <br>
 ![Texto alternativo](imagenes/Screenshot_8.png)
 <br>
+
