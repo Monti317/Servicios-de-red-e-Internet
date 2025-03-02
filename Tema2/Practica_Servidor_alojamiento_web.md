@@ -141,3 +141,12 @@ Una vez dentro de RDS podremos ver la opción de "Crear Base de datos"
 <br>
 ![Texto alternativo](imagenes/Screenshot_31.png)
 <br>
+Empezaremos con la configuración de la base de datos eligiendo el motor MYSQL
+<br>
+![Texto alternativo](imagenes/Screenshot_32.png)
+<br>
+Deberemos elegir en el apartado de "Plantillas" la capa gratuita
+<br>
+![Texto alternativo](imagenes/Screenshot_33.png)
+<br>
+
