@@ -76,7 +76,7 @@ Y ya tendremos nuestra instancia creada
 <br>
 ![Texto alternativo](imagenes/Screenshot_17.png)
 <br>
-## Instalación de Apache y PHP
+## Instalación de Apache
 <br>
 Antes de instalar apache o php deberemos actualizar nuestra maquina con los comandos:
 <br>
@@ -104,6 +104,8 @@ Y la pegaremos en el navegador y nos deberería salir la página de apache
 ![Texto alternativo](imagenes/Screenshot_24.png)
 <br>
 Ya instalado apache2, vamos a comenzar con la instalación de PHP
+<br>
+## Instalación de PHP
 <br>
 Lo primero que vamos a hacer es añadir un repositorio a nuestra máquina con el comando:
 <br>
