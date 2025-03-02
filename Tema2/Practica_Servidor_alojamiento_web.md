@@ -214,4 +214,13 @@ Como podemos ver se ha creado correctamente
 <br>
 ![Texto alternativo](imagenes/Screenshot_48.png)
 <br>
-
+Una vez creado nos tendremos que ir a la configuración de la VPC en mi caso "wordpress" para añadir una regla de entrada
+<br>
+Seleccionamos el VPC al que le queremos añadir la regla
+<br>
+![Texto alternativo](imagenes/Screenshot_49.png)
+<br>
+Nos vamos al apartado "Reglas de entrada" y le damos a "Editar reglas de entrada"
+<br>
+![Texto alternativo](imagenes/Screenshot_50.png)
+<br>
