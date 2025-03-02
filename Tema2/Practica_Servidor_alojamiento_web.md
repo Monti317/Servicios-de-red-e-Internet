@@ -165,4 +165,12 @@ En el apartado de seguridad del VPC le asignaremos un nombre, en mi caso "Seguri
 <br>
 ![Texto alternativo](imagenes/Screenshot_37.png)
 <br>
+El apartado "Supervisión" lo dejaremos por defecto
+<br>
+![Texto alternativo](imagenes/Screenshot_38.png)
+<br>
+Lo único que nos queda es asignarle un nombre a nuestra base de datos
+<br>
+![Texto alternativo](imagenes/Screenshot_39.png)
+<br>
 
