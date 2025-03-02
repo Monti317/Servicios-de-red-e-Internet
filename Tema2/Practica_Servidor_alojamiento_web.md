@@ -55,8 +55,12 @@ Empezaremos configurando el sistema operativo
 Tambíen seleccionaremos el tipo de instancia y el par de claves
 <br>
 ![Texto alternativo](imagenes/Screenshot_13.png)
-<br>
-Y por último la configuración de red
+<br> 
+La configuración de red
 <br>
 ![Texto alternativo](imagenes/Screenshot_12.png)
+<br>
+Y por último configuraremos el firewall con las reglas de entrada tanto ssh como http
+<br>
+![Texto alternativo](imagenes/Screenshot_14.png)
 <br>
