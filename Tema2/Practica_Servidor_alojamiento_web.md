@@ -268,4 +268,7 @@ Una vez descargado debemos descomprimirlo
 <br>
 ![Texto alternativo](imagenes/Screenshot_60.png)
 <br>
-
+Como podemos ver ya tenemos wordpress instalado en el directorio "/var/www/html"
+<br>
+![Texto alternativo](imagenes/Screenshot_61.png)
+<br>
