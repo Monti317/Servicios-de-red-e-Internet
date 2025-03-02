@@ -296,4 +296,5 @@ Y empezaremos con la configuración de wordpress, nos pedirán parametros básic
 <br>
 ![Texto alternativo](imagenes/Screenshot_66.png)
 <br>
-
+![Texto alternativo](imagenes/Screenshot_67.png)
+<br>
