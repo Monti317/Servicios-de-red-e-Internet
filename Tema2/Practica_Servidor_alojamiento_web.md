@@ -27,3 +27,12 @@ Configuraremos las ips para que tengamos 2 subredes públicas y 2 privadas
 El resto lo dejaremos por defecto y crearemos la VPC
 <br>
 ![Texto alternativo](imagenes/Screenshot_6.png)
+<br>
+Y como podemos ver ya se empezaría a crear el VPS
+<br>
+![Texto alternativo](imagenes/Screenshot_7.png)
+<br>
+Ya la tenemos creada:
+<br>
+![Texto alternativo](imagenes/Screenshot_8.png)
+<br>
