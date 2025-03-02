@@ -272,3 +272,9 @@ Como podemos ver ya tenemos wordpress instalado en el directorio "/var/www/html"
 <br>
 ![Texto alternativo](imagenes/Screenshot_61.png)
 <br>
+Ya instalado wordpress necesitaremos un cliente MYSQL para crear la base de datos de wordpress
+<br>
+Instalaremos el cliente con el comando
+<br>
+![Texto alternativo](imagenes/Screenshot_62.png)
+<br>
