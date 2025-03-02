@@ -7,4 +7,8 @@ Lo primero que vamos a hacer es entrar al laboratorio AWS
 
 ![Texto alternativo](imagenes/Screenshot_1.png)
 <br>
-Una vez dentro de AWS es irnos al panel de VPC y seleccionaremos "Crear VPC"
+Una vez dentro de AWS nos iremos al buscador y buscaremos el servicio "VPC"
+<br>
+
+![Texto alternativo](imagenes/Screenshot_2.png)
+<br>
