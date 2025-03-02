@@ -224,3 +224,15 @@ Nos vamos al apartado "Reglas de entrada" y le damos a "Editar reglas de entrada
 <br>
 ![Texto alternativo](imagenes/Screenshot_50.png)
 <br>
+Estableceremos una regla para el protocolo NFS que solo se pueda conectar a través de nuestra VPC
+<br>
+![Texto alternativo](imagenes/Screenshot_51.png)
+<br>
+Ahora nos vamos a EFS, al apartado de "Red"
+<br>
+![Texto alternativo](imagenes/Screenshot_53.png)
+<br>
+Y cambiamos la VPC que viene por defecto, por la que creamos nosotros
+<br>
+![Texto alternativo](imagenes/Screenshot_52.png)
+<br>
