@@ -161,4 +161,8 @@ En el apartado de conectividad tendremos que asignar la VPC que creamos anterior
 <br>
 ![Texto alternativo](imagenes/Screenshot_36.png)
 <br>
+En el apartado de seguridad del VPC le asignaremos un nombre, en mi caso "SeguridadDB"
+<br>
+![Texto alternativo](imagenes/Screenshot_37.png)
+<br>
 
