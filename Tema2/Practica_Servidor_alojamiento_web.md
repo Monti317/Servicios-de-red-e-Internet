@@ -137,3 +137,7 @@ Como ya hemos hecho previamente con los demás servicios, buscaremos el servicio
 
 ![Texto alternativo](imagenes/Screenshot_30.png)
 <br>
+Una vez dentro de RDS podremos ver la opción de "Crear Base de datos"
+<br>
+![Texto alternativo](imagenes/Screenshot_31.png)
+<br>
