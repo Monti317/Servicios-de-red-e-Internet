@@ -36,4 +36,15 @@ Ya la tenemos creada:
 <br>
 ![Texto alternativo](imagenes/Screenshot_8.png)
 <br>
+## Creamos la instancia con EC2 
+<br>
+Lo primero que vamos a hacer es buscar en los servicios EC2
+<br>
+
+![Texto alternativo](imagenes/Screenshot_9.png)
+<br>
+Una vez ya dentro de EC2 lanzaremos la instancia
+<br>
+![Texto alternativo](imagenes/Screenshot_10.png)
+<br>
 
