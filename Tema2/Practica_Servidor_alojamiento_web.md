@@ -206,4 +206,8 @@ Una vez dentro seleccionaremos el apartado "Crear un sistema de archivos"
 <br>
 ![Texto alternativo](imagenes/Screenshot_46.png)
 <br>
+Para crear el sistema de archivos, le daremos un nombre y le asignaremos la VPC que creamos anteriormente.
+<br>
+![Texto alternativo](imagenes/Screenshot_47.png)
+<br>
 
