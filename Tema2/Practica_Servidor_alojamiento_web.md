@@ -149,4 +149,12 @@ Deberemos elegir en el apartado de "Plantillas" la capa gratuita
 <br>
 ![Texto alternativo](imagenes/Screenshot_33.png)
 <br>
+Nos pedirá que le asignemos un nombre y un usuario y contraseña con el que acceder a la base de datos en mi caso "admin" "12345678"
+<br>
+![Texto alternativo](imagenes/Screenshot_34.png)
+<br>
+Dejaremos la siguiente configuración por defecto
+<br>
+![Texto alternativo](imagenes/Screenshot_35.png)
+<br>
 
