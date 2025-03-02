@@ -244,4 +244,8 @@ La asociaremos mediante ip, nos dará un codigo el cuál deberemos introducir en
 <br>
 ![Texto alternativo](imagenes/Screenshot_55.png)
 <br>
+Pero antes de introducir ese comando deberemos instalar en nuestra máquina "NFS" con el comando:
+<br>
+![Texto alternativo](imagenes/Screenshot_56.png)
+<br>
 
