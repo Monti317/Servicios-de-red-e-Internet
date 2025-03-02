@@ -130,6 +130,10 @@ Para comprobar que se ha instalado correctamente verificaremos la versión de PH
 <br>
 Como podemos ver nos da la versión lo que significa que lo tenemos instalado correctamente.
 <br>
+## Creamos la base de datos
+<br>
+Como ya hemos hecho previamente con los demás servicios, buscaremos el servicio RDS en el buscador de AWS
+<br>
 
-
-
+![Texto alternativo](imagenes/Screenshot_30.png)
+<br>
