@@ -298,3 +298,15 @@ Y empezaremos con la configuración de wordpress, nos pedirán parametros básic
 <br>
 ![Texto alternativo](imagenes/Screenshot_67.png)
 <br>
+Ya tendríamos instalado wordpress
+<br>
+![Texto alternativo](imagenes/Screenshot_68.png)
+<br>
+Iniciamos sesión con los datos que introdujimos anteriormente
+<br>
+![Texto alternativo](imagenes/Screenshot_69.png)
+<br>
+Y como podemos ver ya estamos dentro de Wordpress
+<br>
+![Texto alternativo](imagenes/Screenshot_70.png)
+<br>
