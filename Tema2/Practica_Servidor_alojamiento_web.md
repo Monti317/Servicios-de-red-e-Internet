@@ -68,4 +68,10 @@ Ya todo configurado lanzaremos la instancia
 <br>
 ![Texto alternativo](imagenes/Screenshot_15.png)
 <br>
-
+Como podemos ver el lanzamiento no tuvo ningun fallo
+<br>
+![Texto alternativo](imagenes/Screenshot_16.png)
+<br>
+Y ya tendremos nuestra instancia creada
+<br>
+![Texto alternativo](imagenes/Screenshot_17.png)
