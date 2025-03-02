@@ -210,4 +210,8 @@ Para crear el sistema de archivos, le daremos un nombre y le asignaremos la VPC 
 <br>
 ![Texto alternativo](imagenes/Screenshot_47.png)
 <br>
+Como podemos ver se ha creado correctamente
+<br>
+![Texto alternativo](imagenes/Screenshot_48.png)
+<br>
 
