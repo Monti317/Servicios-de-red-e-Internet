@@ -257,3 +257,10 @@ Y como podemos ver ya tenemos el directorio "EFS"
 ![Texto alternativo](imagenes/Screenshot_58.png)
 <br>
 
+## Instalación de Wordpress
+<br>
+Empezaremos instalar Wordpress con el comando
+<br>
+
+![Texto alternativo](imagenes/Screenshot_59.png)
+<br>
