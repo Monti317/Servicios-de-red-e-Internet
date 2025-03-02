@@ -95,6 +95,13 @@ Ya instalado vamos a iniciarlo y lo activaremos
 <br>
 ![Texto alternativo](imagenes/Screenshot_22.png)
 <br>
+Para comprobar que funciona correctamente deberemos copiar la ip publica de nuestra máquina, la cual nos aparecerá debajo de la consola
+<br>
+![Texto alternativo](imagenes/Screenshot_23.png)
+<br> 
+Y la pegaremos en el navegador y nos deberería salir la página de apache
+<br>
+![Texto alternativo](imagenes/Screenshot_24.png)
 
 
 
