@@ -109,6 +109,7 @@ Ya instalado apache2, vamos a comenzar con la instalación de PHP
 <br>
 Lo primero que vamos a hacer es añadir un repositorio a nuestra máquina con el comando:
 <br>
+
 ![Texto alternativo](imagenes/Screenshot_25.png)
 <br>
 Ya añadido el repositorio vamos a comandozar con la instalación de PHP
