@@ -195,5 +195,15 @@ Y como podemos ver nos pone que la conexión se ha establecido con exito
 <br>
 ![Texto alternativo](imagenes/Screenshot_44.png)
 <br>
+## Creación del EFS
+<br>
+Para crear el sistema de ficheros vamos a hacer como con los servicios anteriores, buscaremos el servicio EFS en el buscador de AWS
+<br>
 
+![Texto alternativo](imagenes/Screenshot_45.png)
+<br>
+Una vez dentro seleccionaremos el apartado "Crear un sistema de archivos"
+<br>
+![Texto alternativo](imagenes/Screenshot_46.png)
+<br>
 
