@@ -47,4 +47,16 @@ Una vez ya dentro de EC2 lanzaremos la instancia
 <br>
 ![Texto alternativo](imagenes/Screenshot_10.png)
 <br>
+Empezaremos configurando el sistema operativo
+<br>
 
+![Texto alternativo](imagenes/Screenshot_11.png)
+<br>
+Tambíen seleccionaremos el tipo de instancia y el par de claves
+<br>
+![Texto alternativo](imagenes/Screenshot_13.png)
+<br>
+Y por último la configuración de red
+<br>
+![Texto alternativo](imagenes/Screenshot_12.png)
+<br>
