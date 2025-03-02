@@ -75,3 +75,26 @@ Como podemos ver el lanzamiento no tuvo ningun fallo
 Y ya tendremos nuestra instancia creada
 <br>
 ![Texto alternativo](imagenes/Screenshot_17.png)
+<br>
+## Instalación de Apache y PHP
+<br>
+Antes de instalar apache o php deberemos actualizar nuestra maquina con los comandos:
+<br>
+
+![Texto alternativo](imagenes/Screenshot_18.png)
+<br>
+![Texto alternativo](imagenes/Screenshot_19.png)
+<br>
+Una vez ya hemos actualizado nuestra máquina deberemos instalar apache2 con el comando:
+<br>
+![Texto alternativo](imagenes/Screenshot_20.png)
+<br>
+Ya instalado vamos a iniciarlo y lo activaremos
+<br>
+![Texto alternativo](imagenes/Screenshot_21.png)
+<br>
+![Texto alternativo](imagenes/Screenshot_22.png)
+<br>
+
+
+
