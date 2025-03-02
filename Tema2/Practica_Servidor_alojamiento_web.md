@@ -173,4 +173,10 @@ Lo único que nos queda es asignarle un nombre a nuestra base de datos
 <br>
 ![Texto alternativo](imagenes/Screenshot_39.png)
 <br>
+Y crearemos la base de datos
+<br>
+Como podemos ver la base de datos ya esta creada
+<br>
+![Texto alternativo](imagenes/Screenshot_40.png)
+<br>
 
