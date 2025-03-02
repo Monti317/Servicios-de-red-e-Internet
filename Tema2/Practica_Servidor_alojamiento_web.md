@@ -124,6 +124,12 @@ Ya instalados vamos a reiniciar apache2
 <br>
 ![Texto alternativo](imagenes/Screenshot_28.png)
 <br>
+Para comprobar que se ha instalado correctamente verificaremos la versión de PHP con el comando:
+<br>
+![Texto alternativo](imagenes/Screenshot_29.png)
+<br>
+Como podemos ver nos da la versión lo que significa que lo tenemos instalado correctamente.
+<br>
 
 
 
