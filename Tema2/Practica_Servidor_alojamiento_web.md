@@ -259,8 +259,13 @@ Y como podemos ver ya tenemos el directorio "EFS"
 
 ## Instalación de Wordpress
 <br>
-Empezaremos instalar Wordpress con el comando
+Empezaremos descargando Wordpress con el comando
 <br>
 
 ![Texto alternativo](imagenes/Screenshot_59.png)
 <br>
+Una vez descargado debemos descomprimirlo
+<br>
+![Texto alternativo](imagenes/Screenshot_60.png)
+<br>
+
