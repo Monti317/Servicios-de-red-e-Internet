@@ -236,3 +236,7 @@ Y cambiamos la VPC que viene por defecto, por la que creamos nosotros
 <br>
 ![Texto alternativo](imagenes/Screenshot_52.png)
 <br>
+Una vez hecho los cambios, tendremos que asociarla con la máquina donde va a estar wordpress
+<br>
+![Texto alternativo](imagenes/Screenshot_54.png)
+<br>
