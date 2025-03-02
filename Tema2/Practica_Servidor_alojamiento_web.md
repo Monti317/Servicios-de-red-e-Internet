@@ -282,3 +282,7 @@ Ya con el cliente instalado tendremos que entrar en MYSQL
 <br>
 ![Texto alternativo](imagenes/Screenshot_63.png)
 <br>
+Y crearemos la base de datos para wordpress
+<br>
+![Texto alternativo](imagenes/Screenshot_64.png)
+<br>
