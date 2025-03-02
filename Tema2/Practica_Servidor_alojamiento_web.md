@@ -286,3 +286,9 @@ Y crearemos la base de datos para wordpress
 <br>
 ![Texto alternativo](imagenes/Screenshot_64.png)
 <br>
+Una vez creada la base de datos entraremos en wordpress desde nuestro navegador para empezar a configurarlo, para entrar deberemos poner la ip de nuestra máquina en mi caso 54.211.14.162 seguida de la palabra wordpress.
+<br>
+Quedaría tal que así : "54.211.14.162/wordpress/"
+<br>
+![Texto alternativo](imagenes/Screenshot_65.png)
+<br>
