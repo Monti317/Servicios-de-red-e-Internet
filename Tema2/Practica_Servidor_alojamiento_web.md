@@ -248,4 +248,12 @@ Pero antes de introducir ese comando deberemos instalar en nuestra máquina "NFS
 <br>
 ![Texto alternativo](imagenes/Screenshot_56.png)
 <br>
+Ya instalado deberemos ejecutar el comando que nos daba EFS
+<br>
+![Texto alternativo](imagenes/Screenshot_57.png)
+<br>
+Y como podemos ver ya tenemos el directorio "EFS"
+<br>
+![Texto alternativo](imagenes/Screenshot_58.png)
+<br>
 
