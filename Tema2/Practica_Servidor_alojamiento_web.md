@@ -240,3 +240,8 @@ Una vez hecho los cambios, tendremos que asociarla con la máquina donde va a es
 <br>
 ![Texto alternativo](imagenes/Screenshot_54.png)
 <br>
+La asociaremos mediante ip, nos dará un codigo el cuál deberemos introducir en la máquina para asociarla
+<br>
+![Texto alternativo](imagenes/Screenshot_55.png)
+<br>
+
