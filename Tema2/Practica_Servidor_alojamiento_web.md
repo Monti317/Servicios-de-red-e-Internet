@@ -109,6 +109,9 @@ Lo primero que vamos a hacer es añadir un repositorio a nuestra máquina con el
 <br>
 ![Texto alternativo](imagenes/Screenshot_25.png)
 <br>
-
+Ya añadido el repositorio vamos a comandozar con la instalación de PHP
+<br>
+![Texto alternativo](imagenes/Screenshot_26.png)
+<br>
 
 
