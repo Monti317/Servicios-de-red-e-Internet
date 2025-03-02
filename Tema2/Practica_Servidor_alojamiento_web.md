@@ -102,6 +102,13 @@ Para comprobar que funciona correctamente deberemos copiar la ip publica de nues
 Y la pegaremos en el navegador y nos deberería salir la página de apache
 <br>
 ![Texto alternativo](imagenes/Screenshot_24.png)
+<br>
+Ya instalado apache2, vamos a comenzar con la instalación de PHP
+<br>
+Lo primero que vamos a hacer es añadir un repositorio a nuestra máquina con el comando:
+<br>
+![Texto alternativo](imagenes/Screenshot_25.png)
+<br>
 
 
 
