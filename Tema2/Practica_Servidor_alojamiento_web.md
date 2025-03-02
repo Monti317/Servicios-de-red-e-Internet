@@ -64,3 +64,8 @@ Y por último configuraremos el firewall con las reglas de entrada tanto ssh com
 <br>
 ![Texto alternativo](imagenes/Screenshot_14.png)
 <br>
+Ya todo configurado lanzaremos la instancia
+<br>
+![Texto alternativo](imagenes/Screenshot_15.png)
+<br>
+
