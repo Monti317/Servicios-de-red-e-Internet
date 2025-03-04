@@ -16,5 +16,5 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 |[Ejercicio 3](Tema1/PracticaAWS/AWS.md) | Actividad AWS |
 
 ## Tema 3 - Amazon Web Services
-|[Ejercicio 3](Tema2/Practica_Servidor_alojamiento_web.md) | Instalación de wordpress con diferentes servicios AWS |
+|[AWS](Tema2/Practica_Servidor_alojamiento_web.md) | Instalación de wordpress con diferentes servicios AWS |
 |-------------|--------------|
