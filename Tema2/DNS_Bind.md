@@ -31,3 +31,8 @@ Para que no tengamos problemas con el cortafuegos, vamos a habilitar Bind9
 <br>
 ![Texto alternativo](imagenes2/Screenshot_8.png)
 <br>
+Y estableceremos como servidor DNS la ip de nuestra máquina, para esto vamos a editar el archivo "/etc/resolv.conf"
+<br>
+![Texto alternativo](imagenes2/Screenshot_9.png)
+<br>
+
