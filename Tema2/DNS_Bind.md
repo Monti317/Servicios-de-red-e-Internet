@@ -39,4 +39,6 @@ Ya dentro del archivo ponemos nuestra ip
 <br>
 ![Texto alternativo](imagenes2/Screenshot_10.png)
 <br>
-
+Vamos a probar que tenemos conexión haciendo un ping a google
+<br>
+![Texto alternativo](imagenes2/Screenshot_11.png)
