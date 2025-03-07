@@ -87,4 +87,7 @@ Subimos la imagen al repositorio que hemos creado
 <br>
 ![Texto alternativo](imagenes1/Screenshot_15.png)
 <br>
+Y como podemos ver la imagen ya aparece en nuestro repositorio
+<br>
 
+![Texto alternativo](imagenes1/Screenshot_16.png)
