@@ -9,3 +9,4 @@ Para ejecutar la imagen "hellow-world" tendremos que introducir el siguiente com
 
 ![Texto alternativo](imagenes1/Screenshot_1.png)
 <br>
+### 2. Muestra las imágenes Docker instaladas.
