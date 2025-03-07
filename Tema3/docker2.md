@@ -68,3 +68,10 @@ Rellenamos los datos del repositorio
 <br>
 ![Texto alternativo](imagenes1/Screenshot_11.png)
 <br>
+### 5. Publícalo.
+<br>
+Antes tendremos que iniciar sesión con la cuenta que previamente creamos
+<br>
+
+![Texto alternativo](imagenes1/Screenshot_12.png)
+<br>
