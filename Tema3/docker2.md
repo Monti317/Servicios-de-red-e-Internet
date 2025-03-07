@@ -75,3 +75,11 @@ Antes tendremos que iniciar sesión con la cuenta que previamente creamos
 
 ![Texto alternativo](imagenes1/Screenshot_12.png)
 <br>
+Etiquetamos la imagen local con el siguiente comando
+<br>
+![Texto alternativo](imagenes1/Screenshot_13.png)
+<br>
+Creamos un nuevo commit del contenedor
+<br>
+![Texto alternativo](imagenes1/Screenshot_14.png)
+<br>
