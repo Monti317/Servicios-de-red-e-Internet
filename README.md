@@ -17,5 +17,7 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 
 ## Tema 2 - Amazon Web Services
 |[AWS](Tema2/Practica_Servidor_alojamiento_web.md) | Instalación de wordpress con diferentes servicios AWS |
+
+|-------------|--------------|
 |[DNS](Tema2/DNS_Bind.md) | DNS Server |
 |-------------|--------------|
