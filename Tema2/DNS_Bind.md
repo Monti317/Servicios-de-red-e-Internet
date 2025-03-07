@@ -27,3 +27,7 @@ Y para aplicar los cambios vamos a reiniciar el servidor BIND
 <br>
 ![Texto alternativo](imagenes2/Screenshot_7.png)
 <br>
+Para que no tengamos problemas con el cortafuegos, vamos a habilitar Bind9
+<br>
+![Texto alternativo](imagenes2/Screenshot_8.png)
+<br>
