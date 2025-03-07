@@ -49,4 +49,8 @@ Usaremos el comando "run"
 
 ![Texto alternativo](imagenes1/Screenshot_7.png)
 <br>
+Como podemos ver ya esta funcionando correctamente
+<br>
+![Texto alternativo](imagenes1/Screenshot_8.png)
+<br>
 
