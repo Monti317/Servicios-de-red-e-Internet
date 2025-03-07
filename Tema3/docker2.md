@@ -83,3 +83,8 @@ Creamos un nuevo commit del contenedor
 <br>
 ![Texto alternativo](imagenes1/Screenshot_14.png)
 <br>
+Subimos la imagen al repositorio que hemos creado
+<br>
+![Texto alternativo](imagenes1/Screenshot_15.png)
+<br>
+
