@@ -21,7 +21,7 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 |[DNS](Tema2/DNS_Bind.md) | DNS Server |
 
 ## Tema 3
-|[Ejercicio 1](Tema1/Trabajando-con-scripts/Practica1.md) | Scripts básicos en apache |
+|[AWS](Tema2/Practica_Servidor_alojamiento_web.md) | Instalación de wordpress con diferentes servicios AWS |
 |-------------|--------------|
-|[Ejercicio 2](Tema1/Trabajo%201º%20trimestre/Servidoresweb.md) | Trabajo de redes 1º trimestre |
-|[Ejercicio 3](Tema1/PracticaAWS/AWS.md) | Actividad AWS |
+|[DNS](Tema2/DNS_Bind.md) | DNS Server |
+
