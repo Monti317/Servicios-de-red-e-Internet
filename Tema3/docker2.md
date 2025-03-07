@@ -55,4 +55,8 @@ Como podemos ver ya esta funcionando correctamente
 <br>
 ### 4. Crea una cuenta en hub.docker.com
 <br>
+Creamos la cuenta
+<br>
 
+![Texto alternativo](imagenes1/Screenshot_9.png)
+<br>
