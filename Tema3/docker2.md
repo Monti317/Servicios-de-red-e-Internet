@@ -29,3 +29,6 @@ Para mostrar los contenedores de Docker utilizaremos el comando
 <br>
 Lo primero que tenemos que buscar es una aplicación para editar, el mismo Docker en su Github tiene una llamada "getting-started-app.git", por lo cuál es la que escogeremos
 <br>
+
+![Texto alternativo](imagenes1/Screenshot_4.png)
+<br>
