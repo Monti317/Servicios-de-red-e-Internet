@@ -51,3 +51,4 @@ Una vez hemos cambiaddo el DNS, volveremos a hacer ping a google para ver si en 
 <br>
 ![Texto alternativo](imagenes2/Screenshot_13.png)
 <br>
+Y como podemos ver hay conexión
