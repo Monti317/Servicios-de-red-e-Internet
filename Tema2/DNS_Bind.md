@@ -42,3 +42,12 @@ Ya dentro del archivo ponemos nuestra ip
 Vamos a probar que tenemos conexión haciendo un ping a google
 <br>
 ![Texto alternativo](imagenes2/Screenshot_11.png)
+<br>
+Y como podemos ver tenemos conexión, ahora vamos a conectar otra máquina de la misma red para comprobar que tambíen funciona
+<br>
+![Texto alternativo](imagenes2/Screenshot_12.png)
+<br>
+Una vez hemos cambiaddo el DNS, volveremos a hacer ping a google para ver si en esta máquina hay conexión.
+<br>
+![Texto alternativo](imagenes2/Screenshot_13.png)
+<br>
