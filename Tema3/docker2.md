@@ -37,3 +37,6 @@ Y editaremos el archivo con los siguientes parámetros
 ![Texto alternativo](imagenes1/Screenshot_5.png)
 <br>
 ### 2. Construye el contenedor.
+Para construir el contenedor vamos a usar el comando "build"
+<br>
+
