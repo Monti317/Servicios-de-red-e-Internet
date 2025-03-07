@@ -36,3 +36,4 @@ Y editaremos el archivo con los siguientes parámetros
 <br>
 ![Texto alternativo](imagenes1/Screenshot_5.png)
 <br>
+### 2. Construye el contenedor.
