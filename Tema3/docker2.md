@@ -53,4 +53,6 @@ Como podemos ver ya esta funcionando correctamente
 <br>
 ![Texto alternativo](imagenes1/Screenshot_8.png)
 <br>
+### 4. Crea una cuenta en hub.docker.com
+<br>
 
