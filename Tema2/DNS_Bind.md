@@ -13,3 +13,9 @@ Una vez el sistema está actualizado vamos a comenzar con la instalación del se
 <br>
 Ya instalado pasaremos a la carpeta de configuración de bind que se encuentra en la ruta "/etc/bind/namedd.conf.options"
 <br>
+![Texto alternativo](imagenes2/Screenshot_4.png)
+<br>
+Dentro del archivo vamos a introducir los siguientes parámetros
+<br>
+![Texto alternativo](imagenes2/Screenshot_5.png)
+<br>
