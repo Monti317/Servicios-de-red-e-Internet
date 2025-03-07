@@ -10,3 +10,9 @@ Para ejecutar la imagen "hellow-world" tendremos que introducir el siguiente com
 ![Texto alternativo](imagenes1/Screenshot_1.png)
 <br>
 ### 2. Muestra las imágenes Docker instaladas.
+<br>
+Para mostrar las imagenes dde docker instaladas utilizaremos el comando
+<br>
+
+![Texto alternativo](imagenes1/Screenshot_2.png)
+<br>
