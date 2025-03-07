@@ -32,3 +32,7 @@ Lo primero que tenemos que buscar es una aplicación para editar, el mismo Docke
 
 ![Texto alternativo](imagenes1/Screenshot_4.png)
 <br>
+Y editaremos el archivo con los siguientes parámetros
+<br>
+![Texto alternativo](imagenes1/Screenshot_5.png)
+<br>
