@@ -35,4 +35,8 @@ Y estableceremos como servidor DNS la ip de nuestra máquina, para esto vamos a 
 <br>
 ![Texto alternativo](imagenes2/Screenshot_9.png)
 <br>
+Ya dentro del archivo ponemos nuestra ip
+<br>
+![Texto alternativo](imagenes2/Screenshot_10.png)
+<br>
 
