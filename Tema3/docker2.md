@@ -43,3 +43,10 @@ Para construir el contenedor vamos a usar el comando "build"
 ![Texto alternativo](imagenes1/Screenshot_6.png)
 <br>
 ### 3. Ejecutalo.
+<br>
+Usaremos el comando "run"
+<br>
+
+![Texto alternativo](imagenes1/Screenshot_7.png)
+<br>
+
