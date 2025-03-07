@@ -60,3 +60,11 @@ Creamos la cuenta
 
 ![Texto alternativo](imagenes1/Screenshot_9.png)
 <br>
+Y creamos un repositorio
+<br>
+![Texto alternativo](imagenes1/Screenshot_10.png)
+<br>
+Rellenamos los datos del repositorio
+<br>
+![Texto alternativo](imagenes1/Screenshot_11.png)
+<br>
