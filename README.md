@@ -15,6 +15,6 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 |[Ejercicio 2](Tema1/Trabajo%201º%20trimestre/Servidoresweb.md) | Trabajo de redes 1º trimestre |
 |[Ejercicio 3](Tema1/PracticaAWS/AWS.md) | Actividad AWS |
 
-## Tema 3 - Amazon Web Services
+## Tema 2 - Amazon Web Services
 |[AWS](Tema2/Practica_Servidor_alojamiento_web.md) | Instalación de wordpress con diferentes servicios AWS |
 |-------------|--------------|
