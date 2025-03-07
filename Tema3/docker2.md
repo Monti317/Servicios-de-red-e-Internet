@@ -40,3 +40,6 @@ Y editaremos el archivo con los siguientes parámetros
 Para construir el contenedor vamos a usar el comando "build"
 <br>
 
+![Texto alternativo](imagenes1/Screenshot_6.png)
+<br>
+### 3. Ejecutalo.
