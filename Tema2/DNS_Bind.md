@@ -19,3 +19,11 @@ Dentro del archivo vamos a introducir los siguientes parámetros
 <br>
 ![Texto alternativo](imagenes2/Screenshot_5.png)
 <br>
+Para validar la configuración vamos a poner el siguiente comando
+<br>
+![Texto alternativo](imagenes2/Screenshot_6.png)
+<br>
+Y para aplicar los cambios vamos a reiniciar el servidor BIND
+<br>
+![Texto alternativo](imagenes2/Screenshot_7.png)
+<br>
