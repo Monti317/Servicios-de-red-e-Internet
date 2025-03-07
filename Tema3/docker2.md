@@ -26,3 +26,6 @@ Para mostrar los contenedores de Docker utilizaremos el comando
 ## Lleva a cabo la práctica descrita en el segundo artículo
 
 ### 1. Edita el fichero Dockerfile.
+<br>
+Lo primero que tenemos que buscar es una aplicación para editar, el mismo Docker en su Github tiene una llamada "getting-started-app.git", por lo cuál es la que escogeremos
+<br>
