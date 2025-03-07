@@ -24,5 +24,5 @@ Para mostrar los contenedores de Docker utilizaremos el comando
 ![Texto alternativo](imagenes1/Screenshot_3.png)
 <br>
 ## Lleva a cabo la práctica descrita en el segundo artículo
-<br>
+
 ### 1. Edita el fichero Dockerfile.
