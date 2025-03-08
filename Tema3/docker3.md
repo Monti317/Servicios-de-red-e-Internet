@@ -49,27 +49,17 @@ Para mostrar los contenedores que se estan ejecutando usaremos el comando
 
 ![Texto alternativo](imagenes2/Screenshot_10.png)
 <br>
+## Borra el contenedor “myhello1”
+<br>
 
+![Texto alternativo](imagenes2/Screenshot_11.png)
+<br>
+## Muestra los contenedores que se están ejecutando.
+<br>
 
+![Texto alternativo](imagenes2/Screenshot_12.png)
+<br>
+## Borra todos los contenedores
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Texto alternativo](imagenes2/Screenshot_13.png)
