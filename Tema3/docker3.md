@@ -34,3 +34,42 @@ Ejecutaremos el contenedor Hello-World y le pondremos de nombre "myhello3"
 <br>
 ![Texto alternativo](imagenes2/Screenshot_7.png)
 <br>
+## Muestra los contenedores que se están ejecutando
+Para mostrar los contenedores que se estan ejecutando usaremos el comando
+<br>
+![Texto alternativo](imagenes2/Screenshot_8.png)
+<br>
+## Para el contenedor "myhello1”
+<br>
+
+![Texto alternativo](imagenes2/Screenshot_9.png)
+<br>
+## Para el contenedor "myhello2”
+<br>
+
+![Texto alternativo](imagenes2/Screenshot_10.png)
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
