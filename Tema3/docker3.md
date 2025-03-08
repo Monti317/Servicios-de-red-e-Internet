@@ -13,3 +13,9 @@ Vamos a descargar la imagen con el comando
 Vamos a descargar la imagen con el comando
 <br>
 ![Texto alternativo](imagenes2/Screenshot_3.png)
+<br>
+## Muestra un listado de todas la imágenes
+Para mostrar el listado de todas las imágenes usaremos el comando:
+<br>
+![Texto alternativo](imagenes2/Screenshot_4.png)
+<br>
