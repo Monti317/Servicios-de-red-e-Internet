@@ -22,7 +22,7 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 |[DNS](Tema2/DNS_Bind.md) | DNS Server |
 
 ## Docker
-|[AWS](Tema3/docker2.md) | Práctica 2 |
+|[Docker](Tema3/docker2.md) | Práctica 2 |
 |-------------|--------------|
 |[Docker](Tema3/docker3.md) | Práctica 3 |
 |[Docker](Tema3/docker4.md) | Práctica 4 |
