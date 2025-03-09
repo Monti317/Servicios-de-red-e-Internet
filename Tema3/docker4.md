@@ -18,3 +18,21 @@ Como podemos ver, si accedemos a "localhost:3000" podremos ver nuestra aplicaci√
 
 ![Texto alternativo](imagenes3/Screenshot_4.png)
 <br>
+## Despliegue de Wordpress y MariaDB
+Primero vamos a crear una red Docker para la aplicaci√≥n
+<br>
+![Texto alternativo](imagenes3/Screenshot_5.png)
+<br>
+Desplegaremos el contenedor de la base de datos MariaDB
+<br>
+![Texto alternativo](imagenes3/Screenshot_6.png)
+<br>
+Ya desplegardo el contenedor de la base de datos, desplegaremos tambien wordpress y lo enlazaremos con la base de datos
+<br>
+![Texto alternativo](imagenes3/Screenshot_7.png)
+<br>
+Y como podemos ver ya tendriamos wordpress instalado
+<br>
+![Texto alternativo](imagenes3/Screenshot_8.png)
+<br>
+
