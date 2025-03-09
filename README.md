@@ -22,6 +22,9 @@ Este repositorio contiene las soluciones a los ejercicios del módulo. Cada tema
 |[DNS](Tema2/DNS_Bind.md) | DNS Server |
 
 ## Docker
-|[AWS](Tema2/Practica_Servidor_alojamiento_web.md) | Instalación de wordpress con diferentes servicios AWS |
+|[AWS](Tema3/docker2.md) | Práctica 2 |
 |-------------|--------------|
-|[DNS](Tema2/DNS_Bind.md) | DNS Server |
+|[Docker](Tema3/docker3.md) | Práctica 3 |
+|[Docker](Tema3/docker4.md) | Práctica 4 |
+|[Docker](Tema3/docker5.md) | Práctica 5 |
+|[Docker](Tema3/docker6.md) | Práctica 6 |
